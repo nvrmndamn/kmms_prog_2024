@@ -1,0 +1,8 @@
+build_*
+*.exe
+*.o
+*.a
+lib/
+CMakeCache.txt
+CMakeFiles/
+*.dSYM
