@@ -1,8 +1,10 @@
-build_*
-*.exe
-*.o
-*.a
+build_*/
+build/
 lib/
-CMakeCache.txt
-CMakeFiles/
-*.dSYM
+libs/
+
+*.exe
+*.ii
+*.s
+*.o
+*.DS_Store
